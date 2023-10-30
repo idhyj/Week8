@@ -4,6 +4,8 @@ I created a ghost-catching game "Ghostbusters" using mouse movements.
 At first, I draw prototype in figma
 <img width="1685" alt="스크린샷 2023-10-30 오후 3 56 45" src="https://github.com/idhyj/Week8/assets/145718308/c5972389-a6d0-4aae-9782-71cb271efa2d">
 
+
+
 <The way to using 'Ghostbusters'>
 
 The sound.mp3 file serves as the game's background music and plays in a loop.
